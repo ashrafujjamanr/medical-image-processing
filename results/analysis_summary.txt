@@ -1,0 +1,17 @@
+Medical Image Processing Analysis
+=================================
+
+Number of images analyzed: 20
+
+Segmentation methods:
+- Fixed threshold: 10.94% average area
+- Otsu threshold: 42.04% average area
+- Adaptive threshold: 73.66% average area
+
+Standard deviation:
+- Fixed: 11.27
+- Otsu: 8.70
+- Adaptive: 10.08
+
+Note:
+The segmentation results represent thresholded image regions and should not be interpreted as clinically validated tumor measurements.
