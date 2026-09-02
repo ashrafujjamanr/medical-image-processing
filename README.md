@@ -188,6 +188,32 @@ The project compared three threshold-based segmentation techniques across the 20
 | Otsu Threshold      |                          **42.04%** |
 | Adaptive Threshold  |                          **73.66%** |
 
+### Visual Results
+
+#### Segmentation Distribution
+
+![Segmentation Box Plot](results/segmentation_boxplot.png)
+
+#### Average Image Intensity
+
+![Average Image Intensity](results/average_intensity.png)
+
+#### Average Segmented Area
+
+![Average Segmented Area](results/average_segmented_area.png)
+
+#### Average Edge Percentage
+
+![Average Edge Percentage](results/average_edge_percentage.png)
+
+#### Intensity vs. Edge Percentage
+
+![Intensity vs Edge Percentage](results/intensity_vs_edges.png)
+
+#### Average Contour Area
+
+![Average Contour Area](results/average_contour_area.png)
+
 ### Interpretation
 
 These percentages represent the proportion of image pixels classified as **foreground** by each segmentation method.
